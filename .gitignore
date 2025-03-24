@@ -1,4 +1,9 @@
-artifacts/
+artifacts/raw/
+artifacts/processed/
+artifacts/weights/
+artifacts/model_checkpoint/
+artifacts/model/
 logs/
 mlops_project_2.egg-info/
 sa-mlops-p-2.json
+
