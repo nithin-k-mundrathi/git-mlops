@@ -6,3 +6,4 @@ pyyaml
 tensorflow
 comet-ml
 dvc
+dvc-gs

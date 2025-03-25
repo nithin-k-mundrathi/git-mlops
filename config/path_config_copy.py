@@ -5,7 +5,7 @@ RAW_DIR = "artifacts/raw"
 CONFIG_PATH = "config/config.yaml"
 
 ########################  DATA PROCESSING ############################
-PROCESSED_DIR = "artifacts/processed"
+PROCESSED_DIR = "artifacts/raw"
 ANIME_LIST_CSV = os.path.join(RAW_DIR,"animelist.csv")
 ANIME_CSV = os.path.join(RAW_DIR,"anime.csv")
 ANIME_SYNOPSIS_CSV = os.path.join(RAW_DIR,"anime_with_synopsis.csv")
