@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nithi/Documents/Vscode/p-5-mlops/mlruns/0/ebe66e1875d748cea9a699858a93e0fe/artifacts
+end_time: 1743271719563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebe66e1875d748cea9a699858a93e0fe
+run_name: crawling-roo-946
+run_uuid: ebe66e1875d748cea9a699858a93e0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743271698879
+status: 3
+tags: []
+user_id: nithi

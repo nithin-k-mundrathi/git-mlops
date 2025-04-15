@@ -1,0 +1,5 @@
+set MLFLOW_TRACKING_URI = https://dagshub.com/nithin-k-mundrathi/testing.mlflow
+
+set MLFLOW_TRACKING_USERNAME = nithin-k-mundrathi
+
+set MLFLOW_TRACKING_PASSWORD = f75357b736c6d2eabc63a8d6e66f46288db1a221

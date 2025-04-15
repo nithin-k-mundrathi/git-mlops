@@ -1,0 +1,12 @@
+artifacts/raw/
+artifacts/processed/
+artifacts/weights/
+artifacts/model_checkpoint/
+artifacts/model/
+logs/
+mlops_project_2.egg-info/
+sa-mlops-p-2.json
+sa_p_2.json
+__init__.cpython-311.pyc
+path_config_copy.cpython-311.pyc
+helpers.cpython-311.pyc

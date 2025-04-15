@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nithi/Documents/Vscode/p-5-mlops/mlruns/0/84dc0612605a45308122b75059f3a009/artifacts
+end_time: 1743272641214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84dc0612605a45308122b75059f3a009
+run_name: big-crab-949
+run_uuid: 84dc0612605a45308122b75059f3a009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743272620250
+status: 3
+tags: []
+user_id: nithi

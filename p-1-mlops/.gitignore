@@ -1,0 +1,6 @@
+artifacts
+mlops_project_1.egg-info
+logs
+sa-gcp-key.json
+venv
+mlruns

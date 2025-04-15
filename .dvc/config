@@ -1,5 +1,0 @@
-[core]
-    remote = myremote
-['remote "myremote"']
-    url = gs://dvc-bucket-p-2/
-    credentialpath = ../sa_p_2.json

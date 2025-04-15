@@ -1,0 +1,19 @@
+########################psh from dvc to storage ###########################################
+# add dvc with credentials 
+dvc remote modify myremote credentialpath sa_p_2.json
+gcloud auth activate-service-account --key-file="sa_p_2.json"
+ 
+# add remote to0 dvc
+dvc remote add -d myremote gs://<bucket-name>/
+
+# check ur dvc remote\
+dvc remote list
+
+# push to cloud Storage
+dvc push
+
+
+############################# DVC commands #################################################
+# dvc add folder
+dvc add <folder-name>
+dvc status
